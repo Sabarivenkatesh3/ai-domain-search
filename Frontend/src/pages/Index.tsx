@@ -204,7 +204,7 @@ const Index = () => {
               <span className="font-semibold text-foreground">Sabari</span>
             </p>
             <a
-              href="https://github.com"
+              href="https://github.com/Sabarivenkatesh3/ai-domain-search"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors"
