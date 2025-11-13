@@ -1,0 +1,6 @@
+flask
+httpx
+python-dotenv
+tldextract
+pymysql
+cryptography
